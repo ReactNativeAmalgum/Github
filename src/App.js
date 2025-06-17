@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. new
+          new line here
         </p>
         <h1>
           Git ammend, now ammended without again commiting
