@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. new
-          new line here water
+          new line here, banana
         </p>
         <a
           className="App-link"
