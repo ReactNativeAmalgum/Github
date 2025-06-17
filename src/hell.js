@@ -4,7 +4,7 @@ import React from 'react'
 const hell = () => {
   return (
     <View>
-      <Text>hell</Text>
+      <Text>hell000000</Text>
     </View>
   )
 }
